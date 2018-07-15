@@ -70,7 +70,7 @@ main() // Main program
 	char kata; // deklarasi var kata sebagai character / char
 	printf("Program By : Iman Firmansyah[GANTI NIM IMAN]\n\n"); // Mencetak text 
 	printf("Program By : Dessy Ratnasari[GANTI NIM IMAN]\n\n"); // Mencetak text 
-	printf("Program By : Jerry.Erlangga[41517110131]\n\n"); // Mencetak text 
+	printf("Program By : Jerry Erlangga[41517110131]\n\n"); // Mencetak text 
 	Tambahnode(&root,kata='R'); // mengisi root dengan char 'R'
 	Tambahnode(&root->left,kata='A'); // mengisi link kiri dari root dengan char 'A'
 	Tambahnode(&root->left->left,kata='S'); // mengisi link kiri lalu kiri dari root dengan char 'S'
